@@ -10,4 +10,4 @@ ArchwayOS is a Operating System Started on the 2nd of april 2026 it includes A t
 <img width="1920" height="1080" alt="Screenshot_2026-05-17_21-12-58" src="https://github.com/user-attachments/assets/c2e486b8-4f8c-4f61-a12f-2caaef00b45c" />
 
 
-Im gonna give up uodating this readme till 0.2.0 comes out i dont think anyone is here :(
+Im gonna give up updating this readme till 0.2.0 comes out i dont think anyone is here :(
