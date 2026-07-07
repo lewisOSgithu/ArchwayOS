@@ -1,5 +1,5 @@
-ARCHWAYOS 0.2.0 OUT THIS WEEK
-
+ARCHWAY 0.2.00000 OUTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT AND NOT SMALL
+]
 Welcome To ArchwayOS Currently 0.1.0 IS OUT But 0.2.0 IS nearly Finish
 ArchwayOS is a Hobby Os Made by Me A 13 Year old (accound owned by my parents so i cant be banned) 
 
