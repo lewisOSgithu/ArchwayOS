@@ -1,5 +1,4 @@
-ARCHWAY 0.2.00000 OUTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT AND NOT SMALL
-]
+
 Welcome to ArchwayOS_0.2.0 A OS written in c and ASM im a 13 year old developer 
 ArchwayOS includes
 - Added GRUB-based ISO boot flow with desktop and text-safe boot options.
