@@ -13,7 +13,11 @@ ArchwayOS includes
 - Added hardware/debug command modules.
 - Cleaned project structure for open-source release with .gitignore and source-only tree.
 - DOES NOT WORK ON VIRTUAL BOX FOR NOW
+  OLD 0.2.0
 <img width="1675" height="905" alt="Screenshot from 2026-07-03 22-23-06" src="https://github.com/user-attachments/assets/fb33d574-6017-4306-965c-bb39bd2854b2" />
+
+CURRENT 0.2.0<img width="1458" height="877" alt="Screenshot from 2026-07-03 23-31-20" src="https://github.com/user-attachments/assets/0035297b-673a-4bcd-bcab-a894a918afde" />
+
 
 
 
