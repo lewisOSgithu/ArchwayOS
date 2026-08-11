@@ -22,5 +22,5 @@ CURRENT 0.2.0<img width="1458" height="877" alt="Screenshot from 2026-07-03 23-3
 
 
 
-ArchwayOS is a Operating System Started on the 2nd of april 2026 Currently (v0.3.0) is the next image <img width="1439" height="812" alt="Screenshot from 2026-07-08 14-36-20" src="https://github.com/user-attachments/assets/6930650b-676c-45a8-b994-d35a9f5bd8aa" />
+ArchwayOS is a Operating System which is x64 and graphical 2026 Currently (v0.3.0) is the next image <img width="1439" height="812" alt="Screenshot from 2026-07-08 14-36-20" src="https://github.com/user-attachments/assets/6930650b-676c-45a8-b994-d35a9f5bd8aa" />
 And another v0.3.0 image (with the new icons) <img width="1439" height="812" alt="Screenshot from 2026-07-08 14-36-20" src="https://github.com/user-attachments/assets/2024d983-e942-4835-9340-0d01bc5b2285" />
