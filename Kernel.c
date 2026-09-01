@@ -36,6 +36,7 @@ static const char* all_commands[] = {
 "hex", "dec", "bin", "crypt-test", "self-destruct", "debug-on", "debug-off", "godmode",
 NULL
 };
+// new comment 1st of september 2026 the all commands thing is a old thing and bot implemented at all
 
 static int string_equals(const char* a, const char* b) {
     while (*a && *b) {
