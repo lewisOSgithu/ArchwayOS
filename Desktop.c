@@ -1,3 +1,10 @@
+/*
+ * Proprietary source code.
+ * All rights reserved.
+ * Redistribution, modification, or reuse is not permitted
+ * without permission from the copyright holder.
+ */
+
 #include "os.h"
 
 
